@@ -1,3 +1,8 @@
+/*Store given node values in a Binary Search Tree where left < root < right.
+Insert all initial nodes into the BST.
+Insert one additional node into the tree.
+Delete a specified node from the BST.
+Print the final tree using in order traversal*/
 #include<stdio.h>
 #include<stdlib.h>
 typedef struct node
